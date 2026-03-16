@@ -1,6 +1,6 @@
-# roomsync-web
+# relay-web
 
-Marketing site for RoomSync. Built with Next.js and Tailwind, deployed on Vercel.
+Marketing site for Relay. Built with Next.js and Tailwind, deployed on Vercel.
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
@@ -31,4 +31,4 @@ PRs welcome for typos or broken links. Open an issue before making larger change
 
 ## License
 
-MIT © 2026 RoomSync
+MIT © 2026 Relay
